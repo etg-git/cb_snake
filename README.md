@@ -1,1 +1,1 @@
-![snake gif](https://github.com/etg9307@gmail.com/etgetg9307@gmail.com/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/etg-git/etg-git/blob/output/github-contribution-grid-snake.svg)
