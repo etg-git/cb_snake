@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Good%20Luck&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=REPO&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 
 
 <picture>
