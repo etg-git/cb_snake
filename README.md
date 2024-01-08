@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=eafa8e&height=200&section=header&text=REPO&fontColor=26d124&fontSize=50&animation=fadeIn&fontAlignY=80&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=eafa8e&height=200&section=header&text=REPO&fontColor=26d124&fontSize=50&animation=fadeIn&fontAlignY=45&desc=%20&descAlignY=80&descAlign=62)
 
 
 <picture>
