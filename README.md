@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=faf061&height=200&section=header&text=REPO&fontColor=26d124&fontSize=50&animation=fadeIn&fontAlignY=45&desc=%20&descAlignY=80&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=4cb065&height=200&section=header&text=REPO&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=45&desc=%20&descAlignY=80&descAlign=62)
   
     
   <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
